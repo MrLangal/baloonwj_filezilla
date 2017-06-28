@@ -1,10 +1,12 @@
-filezillaÊÇÒ»¿î¸ßĞÔÄÜftp¹¤¾ß£¬ÕâÊÇÎÒÎ¬»¤µÄfilezilla°æ±¾£¬·ÖÎª¿Í»§¶ËºÍ·şÎñÆ÷¶Ë£¬·şÎñÆ÷¶Ë°üÀ¨filezillaserver³ÌĞòºÍfilezillainterface³ÌĞò£¬Ç°ÕßÊÇwindows·şÎñ³ÌĞò£¬ºóÕßÊÇ¹ÜÀífilezilla·şÎñµÄÓÃ»§½çÃæ³ÌĞò¡£
-±àÒë·½·¨£º
-1. ±àÒëfilezilla¿Í»§¶Ë
-ÓÃVS2013´ò¿ªfilezillaclient\clien\src\FileZilla.sln±àÒë¼´¿É¡£
+filezillaæ˜¯ä¸€æ¬¾é«˜æ€§èƒ½ftpå·¥å…·ï¼Œè¿™æ˜¯æˆ‘ç»´æŠ¤çš„filezillaç‰ˆæœ¬ï¼Œåˆ†ä¸ºå®¢æˆ·ç«¯å’ŒæœåŠ¡å™¨ç«¯ï¼ŒæœåŠ¡å™¨ç«¯åŒ…æ‹¬filezillaserverç¨‹åºå’Œfilezillainterfaceç¨‹åºï¼Œå‰è€…æ˜¯windowsæœåŠ¡ç¨‹åºï¼Œåè€…æ˜¯ç®¡ç†filezillaæœåŠ¡çš„ç”¨æˆ·ç•Œé¢ç¨‹åºã€‚
+ç¼–è¯‘æ–¹æ³•ï¼š
+1. ç¼–è¯‘filezillaå®¢æˆ·ç«¯
+ç”¨VS2013æ‰“å¼€filezillaclient\clien\src\FileZilla.slnç¼–è¯‘å³å¯ã€‚
 
-2. ±àÒëfilezillaserver
-ÓÃVS2015´ò¿ªfilezillaserver\filezillaserver\filezillaserver.sln±àÒë¼´¿É¡£
+2. ç¼–è¯‘filezillaserver
+ç”¨VS2015æ‰“å¼€filezillaserver\filezillaserver\filezillaserver.slnç¼–è¯‘å³å¯ã€‚
 
-3. ±àÒëfilezillaserverinterface
-ÓÃVS2015´ò¿ªfilezillaserverinterface\filezillaserver\filezillaserverinterface.sln±àÒë¼´¿É¡£
+3. ç¼–è¯‘filezillaserverinterface
+ç”¨VS2015æ‰“å¼€filezillaserverinterface\filezillaserver\filezillaserverinterface.slnç¼–è¯‘å³å¯ã€‚
+
+å…·ä½“å‚è§ï¼šhttp://blog.csdn.net/analogous_love/article/details/73826187
